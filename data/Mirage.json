@@ -1,26 +1,26 @@
 [
     {
-        "input": {"x":53,"y":65,"z":25, "yaw":45},
-        "output": {"boneindex":0}
+        "input": {"x":53,"y":65,"z":25},
+        "output": {"yaw":0.45}
     },
     {
-        "input": {"x":53,"y":65,"z":25, "yaw": 53},
-        "output": {"boneindex":0}
+        "input": {"x":53,"y":65,"z":25},
+        "output": {"yaw": 0.53}
     },
     {
-        "input": {"x":53,"y":65,"z":25, "yaw": 12},
-        "output": {"boneindex":0}
+        "input": {"x":53,"y":65,"z":25},
+        "output": {"yaw": 0.12}
     },
     {
-        "input": {"x":53,"y":65,"z":25, "yaw": 17},
-        "output": {"boneindex":1}
+        "input": {"x":88,"y":68,"z":45},
+        "output": {"yaw":0.45}
     },
     {
-        "input": {"x":53,"y":65,"z":25, "yaw": 13},
-        "output": {"boneindex":0}
+        "input": {"x":88,"y":68,"z":45},
+        "output": {"yaw": 0.53}
     },
     {
-        "input": {"x":53,"y":65,"z":25, "yaw": 24},
-        "output": {"boneindex":0}
+        "input": {"x":88,"y":68,"z":45},
+        "output": {"yaw": 0.12}
     }
 ]
